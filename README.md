@@ -6,3 +6,5 @@ Echipa noastra este formata din Vlada si Patricia si exerseaza lucrul colaborati
 
 Continuarea laboratorului vineri 20.03.2026.
 
+Facem un conflict.
+
