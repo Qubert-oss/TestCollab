@@ -8,3 +8,5 @@ Continuarea laboratorului vineri 20.03.2026.
 
 Facem un conflict.
 
+Echipa noastra lucreaza pe ramura main.
+
